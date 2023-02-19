@@ -1,9 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2d9dd614.css",
-    "main.js": "/static/js/main.5c2899f2.js",
+    "main.js": "/static/js/main.11b71019.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/lxmls-certificate.png": "/static/media/lxmls-certificate.d0727c27ada5339bc500.png",
+    "static/media/certificate2.png": "/static/media/certificate2.d529f856f3f9c5f00aa3.png",
+    "static/media/certificate1.png": "/static/media/certificate1.0da7c6c513ec8c528ac3.png",
+    "static/media/certificate3.png": "/static/media/certificate3.fdf46ce7946704b24b52.png",
+    "static/media/certificate4.png": "/static/media/certificate4.4b53157b457c86456f44.png",
     "static/media/map_gen.png": "/static/media/map_gen.a24b04d1d6684714daa9.png",
     "static/media/qa.png": "/static/media/qa.d5b449cf3882f7609c0e.png",
     "static/media/SAP_logo.png": "/static/media/SAP_logo.980c017207414944cdf3.png",
@@ -24,12 +29,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.2d9dd614.css.map": "/static/css/main.2d9dd614.css.map",
-    "main.5c2899f2.js.map": "/static/js/main.5c2899f2.js.map",
+    "main.11b71019.js.map": "/static/js/main.11b71019.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d9dd614.css",
-    "static/js/main.5c2899f2.js"
+    "static/js/main.11b71019.js"
   ]
 }
