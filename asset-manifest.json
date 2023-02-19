@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d9dd614.css",
+    "main.js": "/static/js/main.5c2899f2.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/map_gen.png": "/static/media/map_gen.a24b04d1d6684714daa9.png",
+    "static/media/qa.png": "/static/media/qa.d5b449cf3882f7609c0e.png",
+    "static/media/SAP_logo.png": "/static/media/SAP_logo.980c017207414944cdf3.png",
+    "static/media/hotel_recommender.png": "/static/media/hotel_recommender.850e8f68bb2070ff60e6.png",
+    "static/media/breaking_news.png": "/static/media/breaking_news.1f806e5d862c656cef06.png",
+    "static/media/fashion_classifier.png": "/static/media/fashion_classifier.a101b61b295673aec68e.png",
+    "static/media/mt_quality.png": "/static/media/mt_quality.c5c9c5c2f52eb358e804.png",
+    "static/media/txt_editor.png": "/static/media/txt_editor.a6b27423a8dde77a025d.png",
+    "static/media/docSearch.png": "/static/media/docSearch.637db1e59dcd92fa82aa.png",
+    "static/media/nmt.png": "/static/media/nmt.2a04d3fd2725b54efc2c.png",
+    "static/media/ecom_regression.png": "/static/media/ecom_regression.7f1b043d8e6603ef0534.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/face_detection.png": "/static/media/face_detection.31bd17f76c183030bd93.png",
+    "static/media/MariaAfara.pdf": "/static/media/MariaAfara.06459124c97a1ac431a1.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.2d9dd614.css.map": "/static/css/main.2d9dd614.css.map",
+    "main.5c2899f2.js.map": "/static/js/main.5c2899f2.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9dd614.css",
+    "static/js/main.5c2899f2.js"
+  ]
+}
